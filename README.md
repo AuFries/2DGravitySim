@@ -1,5 +1,5 @@
 # 2DGravitySim
-A 2D gravity simulation using pygame
+A 2D gravity simulation using pygame. This displays the behavior of masses in free space. In many instances, binary, or even trinary star systems can be seen formed with multiple large masses dominating the simulation.
 
 ![gravGif](https://user-images.githubusercontent.com/72180759/147899952-cfc68ded-066c-4cf1-aecb-4442ba3ee18f.gif)
 
