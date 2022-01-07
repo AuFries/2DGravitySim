@@ -3,7 +3,7 @@ A basic 2D gravity simulation using pygame. This displays the behavior of masses
 
 ![gravGif](https://user-images.githubusercontent.com/72180759/147899952-cfc68ded-066c-4cf1-aecb-4442ba3ee18f.gif)
 
-## Import Equations Used
+## Important Equations Used
 1. **Newton's law of universal gravitation**
 
 ![Screenshot (1367)](https://user-images.githubusercontent.com/72180759/148466514-8bffb374-c407-443a-94ac-a02c840643f0.png)
